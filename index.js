@@ -21,3 +21,4 @@ function mergeSort(arr) {
 
 console.log(mergeSort);
 
+module.exports = { merge, mergeSort };
